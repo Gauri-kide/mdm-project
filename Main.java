@@ -12,7 +12,7 @@ public class Main {
         } else {
             System.out.println("Odd");
         }
-        System.out.println("Hello from feature branch");
+        System.out.println("Feature branch change");
     }
 }
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
