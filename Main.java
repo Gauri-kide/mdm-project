@@ -12,6 +12,7 @@ public class Main {
         } else {
             System.out.println("Odd");
         }
+        System.out.println("Feature change");
     }
 }
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
